@@ -35,10 +35,13 @@ Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQK
 
 ## Скриншоты
 
-| | |
-|---|---|
-| ![Вход](https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee) | ![Регистрация](https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0) |
-| ![Вход](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Чат](https://github.com/user-attachments/assets/2b6cc8e5-96d0-4235-a296-f75704798816) |
+| Главный экран | Регистрация |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee" width="200"> | <img src="https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0" width="200"> |
+
+| Вход | Чат |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e" width="200"> | <img src="https://github.com/user-attachments/assets/2b6cc8e5-96d0-4235-a296-f75704798816" width="200"> |
 
 ## ⚠️ Важно для просмотра проекта
 
@@ -99,10 +102,14 @@ Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQK
 | `ChatViewController.swift` | Chat: send, load messages, UITableView |
 
 ## Screenshots
-| | |
-|---|---|
-| ![Main page](https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee) | ![Register](https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0) |
-| ![Log in](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Chat](https://github.com/user-attachments/assets/2b6cc8e5-96d0-4235-a296-f75704798816) |
+
+| Welcome | Register |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee" width="200"> | <img src="https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0" width="200"> |
+
+| Login | Chat |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e" width="200"> | <img src="https://github.com/user-attachments/assets/2b6cc8e5-96d0-4235-a296-f75704798816" width="200"> |
 
 
 ## ⚠️ Important for viewing the project

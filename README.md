@@ -38,7 +38,7 @@ Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQK
 | | |
 |---|---|
 | ![Вход](https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee) | ![Регистрация](https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0) |
-| ![Вход](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Чат]([screenshots/messages.pn](https://github.com/user-attachments/assets/23fe0bc6-5cba-4bb1-a5ea-cae077ee573b)g) |
+| ![Вход](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Чат]([screenshots/messages.pn](https://github.com/user-attachments/assets/2b6cc8e5-96d0-4235-a296-f75704798816) |
 
 ## ⚠️ Важно для просмотра проекта
 
@@ -102,7 +102,7 @@ Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQK
 | | |
 |---|---|
 | ![Main page](https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee) | ![Register](https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0) |
-| ![Log in](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Chat]([screenshots/messages.pn](https://github.com/user-attachments/assets/23fe0bc6-5cba-4bb1-a5ea-cae077ee573b)g) |
+| ![Log in](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Chat]([screenshots/messages.pn](https://github.com/user-attachments/assets/2b6cc8e5-96d0-4235-a296-f75704798816) |
 
 
 ## ⚠️ Important for viewing the project

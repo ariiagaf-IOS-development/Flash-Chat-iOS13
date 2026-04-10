@@ -19,6 +19,20 @@
 
 Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQKeyboardManager, MVC
 
+## Структура проекта
+
+| Файл | Назначение |
+|------|------------|
+| `AppDelegate.swift` | Настройка Firebase и IQKeyboardManager |
+| `SceneDelegate.swift` | Управление окнами и сценами |
+| `Constants.swift` | Глобальные константы (названия, цвета, идентификаторы) |
+| `Message.swift` | Модель сообщения (sender, body) |
+| `MessageCell.swift` | Кастомная ячейка с пузырьком и иконками |
+| `WelcomeViewController.swift` | Экран приветствия с анимированным заголовком |
+| `LoginViewController.swift` | Вход пользователя (Firebase Auth) |
+| `RegisterViewController.swift` | Регистрация пользователя (Firebase Auth) |
+| `ChatViewController.swift` | Чат: отправка, загрузка сообщений, UITableView |
+
 ## Скриншоты
 
 | | |
@@ -57,6 +71,20 @@ Real-time messaging app. Register, login and chat with Firebase synchronization.
 ## Technologies
 
 Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQKeyboardManager, MVC
+
+## Project Structure
+
+| File | Purpose |
+|------|---------|
+| `AppDelegate.swift` | Firebase and IQKeyboardManager setup |
+| `SceneDelegate.swift` | Window and scene management |
+| `Constants.swift` | Global constants (names, colors, identifiers) |
+| `Message.swift` | Message model (sender, body) |
+| `MessageCell.swift` | Custom cell with bubble and icons |
+| `WelcomeViewController.swift` | Welcome screen with animated title |
+| `LoginViewController.swift` | User login (Firebase Auth) |
+| `RegisterViewController.swift` | User registration (Firebase Auth) |
+| `ChatViewController.swift` | Chat: send, load messages, UITableView |
 
 ## Screenshots
 

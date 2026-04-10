@@ -37,8 +37,20 @@ Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQK
 
 | | |
 |---|---|
-| ![Вход](screenshots/login.png) | ![Регистрация](screenshots/register.png) |
-| ![Чат](screenshots/chat.png) | ![Сообщения](screenshots/messages.png) |
+| ![Вход](https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee) | ![Регистрация](https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0) |
+| ![Вход](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Чат]([screenshots/messages.pn](https://github.com/user-attachments/assets/23fe0bc6-5cba-4bb1-a5ea-cae077ee573b)g) |
+
+## ⚠️ Важно для просмотра проекта
+
+Этот проект использует **Firebase**. Файл `GoogleService-Info.plist` с ключами доступа **не включён** в репозиторий (добавлен в `.gitignore` по соображениям безопасности).
+
+### Чтобы запустить проект у себя:
+
+1. Создайте свой проект в [Firebase Console](https://console.firebase.google.com)
+2. Добавьте iOS-приложение с Bundle ID `com.yourcompany.Flash-Chat-iOS13`
+3. Скачайте `GoogleService-Info.plist` и добавьте в папку проекта
+4. Включите **Authentication** (Email/Password) и **Firestore Database**
+5. Выполните `pod install` и откройте `.xcworkspace`
 
 ## Курс
 
@@ -87,11 +99,23 @@ Swift, UIKit, UITableView, Firebase Auth, Firebase Firestore, CLTypingLabel, IQK
 | `ChatViewController.swift` | Chat: send, load messages, UITableView |
 
 ## Screenshots
-
 | | |
 |---|---|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
-| ![Chat](screenshots/chat.png) | ![Messages](screenshots/messages.png) |
+| ![Main page](https://github.com/user-attachments/assets/4c52b625-71cb-4027-a043-7d1bc3e995ee) | ![Register](https://github.com/user-attachments/assets/2e955c97-fbdb-4b1b-9140-542ab4d66fe0) |
+| ![Log in](https://github.com/user-attachments/assets/fd85abcc-e486-48cf-b1f3-3ce60075081e) | ![Chat]([screenshots/messages.pn](https://github.com/user-attachments/assets/23fe0bc6-5cba-4bb1-a5ea-cae077ee573b)g) |
+
+
+## ⚠️ Important for viewing the project
+
+This project uses **Firebase**. The `GoogleService-Info.plist` file with access keys is **not included** in the repository (added to `.gitignore` for security reasons).
+
+### To run the project locally:
+
+1. Create your own project in [Firebase Console](https://console.firebase.google.com)
+2. Add an iOS app with Bundle ID `com.yourcompany.Flash-Chat-iOS13`
+3. Download `GoogleService-Info.plist` and add to project folder
+4. Enable **Authentication** (Email/Password) and **Firestore Database**
+5. Run `pod install` and open `.xcworkspace`
 
 ## Course
 
